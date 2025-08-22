@@ -1,3 +1,3 @@
 # git-demo
 My Self Debjeet Ghosh
-i am pusduing my Bsc in data Science
+I am prsuing my BSC in Data Science at Birla Global University.
